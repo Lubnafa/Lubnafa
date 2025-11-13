@@ -57,15 +57,6 @@ A full-stack social image-sharing application built with Java 17 + Spring Boot 3
 Real-time distributed event-streaming using Kafka + Node.js.  
 🔗 GitHub: https://github.com/Lubnafa/Kafka-app
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lubnafa&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubnafa&layout=compact" />
-</p>
-
----
 
 ### 📫 Connect With Me
 - **Email:** lfatima28234@gmail.com  
